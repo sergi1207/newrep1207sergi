@@ -16,13 +16,13 @@ title: Student Blog
 
 <img src ="images/freeform.jpg">
 <br><br><br>
+
 ## Struggles: 
+
 <br>
 At the beginning of the course after downloading all necessary extensions and getting all the tools ready, I found out that in the version checks, my python 3 wasn’t detected, so I had to fix that issue by making sure everything was set to python 3. After solving this issue and using bundle install to acquire all gems, I was ready to start a localhost server to start working on my project. However, the make command wouldn’t work and an “Error 1” kept coming up. This issue was shortly solved after using an ln -s command that fixed the issue with nbconvert. Shortly, I was back with the ability to code. Unfortunately, after running a localhost server and being ready to code, I wasn’t able to edit any of my files. I solved this solution by always using “shift I” right before starting as it allowed me to insert my own code.  Now, I am able to code freely anywhere, anytime!
 
 <br><br>
-
-
 
 <div class="container">
       <div class="info">
@@ -35,5 +35,4 @@ At the beginning of the course after downloading all necessary extensions and ge
       <span id="result">Join the numbers and get to the <b>2048</b> tile!</span>
       <div class="grid"></div>
     </div>
-
 
